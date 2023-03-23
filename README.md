@@ -17,6 +17,6 @@ This project is created to test the understanding of students in applying the fu
 - Make the DEL button work as expected.
 - Remove leading zeros.
 
-## Q&As
-1. What's the difference beetween only **width: 400px** and both **width: 100%** and **max-width: 400px**?
-2. 
+## Future features
+1. When a user repeats inputing zero, only display 1 zero.
+2. When the input starts with 0 and the 2nd character is non-zero, displays the non-zero number.
